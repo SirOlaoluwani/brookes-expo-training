@@ -5,7 +5,7 @@ export default function App() {
   return (
     <ScrollView style={styles.scrollview}>
       <View style={styles.container}>
-        <Text style={styles.headerText}>Today's Tasks - 000</Text>
+        <Text style={styles.headerText}>Today's Tasks - 000 - 0000</Text>
         <Task />
         <Task />
         <Task />
